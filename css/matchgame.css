@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background: BROWN url(../images/bg.jpg);
+    font-family: 'Roboto', sans-serif;
 }
 
 #game {
